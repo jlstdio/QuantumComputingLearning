@@ -9,3 +9,9 @@ This repository is to learn how to do Quantum Computing and how the quantum phys
 
 
 * my note taking on this video is [here](https://github.com/JoonLee-K/QuantumComputingLearning/blob/master/Quantum%20computer.pdf)
+
+# Suggested Book
+* [Quantum Computer Science: An Introduction](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky-ebook/dp/B00AHTN5NS)
+
+
+* [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky-ebook/dp/B00AHTN5NS)
