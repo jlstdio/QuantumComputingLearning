@@ -4,6 +4,8 @@ This repository is to archive on learning how to do Quantum Computing and how th
 # Basic QuantumComputing
 > Click here to watch : [Microsoft Research : Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)
 
+* [More info about this video(slides..and stuff like that)](https://www.microsoft.com/en-us/research/video/quantum-computing-computer-scientists/#!related_info)
+
 
 * This is the most well described on how does the Quantum Computer works
 
