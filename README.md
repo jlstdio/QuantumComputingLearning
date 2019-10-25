@@ -3,7 +3,7 @@ This repository is to archive on learning how to do Quantum Computing and how th
 
 # Basic QuantumComputing
 
-## [Microsoft Research : Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)
+## Microsoft Research : Quantum Computing for Computer Scientists, click [here](https://www.youtube.com/watch?v=F_Riqjdh2oM)
 
 
  > This talk discards hand-wavy pop-science metaphors and answers a simple question: from a computer science perspective, how can a quantum computer outperform a classical computer? Attendees will learn the following:
