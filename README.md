@@ -11,7 +11,7 @@ This repository is to archive on learning how to do Quantum Computing and how th
 * my note taking on this video is [here](https://github.com/JoonLee-K/QuantumComputingLearning/blob/master/Quantum%20computer.pdf)
 
 # Suggested Book
-* [Quantum Computer Science: An Introduction](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky-ebook/dp/B00AHTN5NS)
+* [Quantum Computer Science: An Introduction](https://www.amazon.com/Quantum-Computer-Science-David-Mermin-ebook/dp/B00AHTN53S/ref=sr_1_1?keywords=quantum+computer+science&qid=1571995128&s=digital-text&sr=1-1)
 
 
 * [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky-ebook/dp/B00AHTN5NS)
