@@ -1,5 +1,9 @@
 # Learning Quantum Computing
-This repository is to archive on learning how to do Quantum Computing and how the quantum physic works
+> This repository is to archive on learning how to do Quantum Computing and how the quantum physic works
+
+# How can I test what I have learned?
+> Thankfully, IBM is letting people to experience real quantum computer.
+you can go to there website([here](https://www.ibm.com/quantum-computing/technology/experience)) and test.
 
 # Basic Quantum Computing
 
