@@ -2,12 +2,11 @@
 This repository is to archive on learning how to do Quantum Computing and how the quantum physic works
 
 # Basic QuantumComputing
-> Click here to watch : [Microsoft Research : Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)
 
-## video is about...
+## [Microsoft Research : Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)
 
 
-This talk discards hand-wavy pop-science metaphors and answers a simple question: from a computer science perspective, how can a quantum computer outperform a classical computer? Attendees will learn the following:
+ > This talk discards hand-wavy pop-science metaphors and answers a simple question: from a computer science perspective, how can a quantum computer outperform a classical computer? Attendees will learn the following:
 
 Representing computation with basic linear algebra (matrices and vectors)
 The computational workings of qbits, superposition, and quantum logic gates
