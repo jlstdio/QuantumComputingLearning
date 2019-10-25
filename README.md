@@ -1,7 +1,7 @@
 # QuantumComputingLearning
 This repository is to learn how to do Quantum Computing and how the quantum physic works
 
-# Video of Basic QuantumComputing
+# Basic QuantumComputing
 > Click here to watch : [Microsoft Research : Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)
 
 
