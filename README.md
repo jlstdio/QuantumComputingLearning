@@ -31,3 +31,7 @@ The talk concludes with a live demonstration of quantum entanglement on a real-w
 * [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky-ebook/dp/B00AHTN5NS)
 
 <img src="https://github.com/JoonLee-K/QuantumComputingLearning/blob/master/untitled.jpg" width="300px" height="450px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+
+author : JoonLee (이준희)
+
+![image](https://user-images.githubusercontent.com/35446381/230073520-b4295427-1b33-49a0-b9a7-679fa8f75aa6.png)
