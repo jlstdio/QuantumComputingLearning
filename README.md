@@ -24,11 +24,11 @@ The talk concludes with a live demonstration of quantum entanglement on a real-w
 # Suggested Book
 * [Quantum Computer Science: An Introduction](https://www.amazon.com/Quantum-Computer-Science-David-Mermin-ebook/dp/B00AHTN53S/ref=sr_1_1?keywords=quantum+computer+science&qid=1571995128&s=digital-text&sr=1-1)
 
-<img src="https://github.com/JoonLee-K/QuantumComputingLearning/blob/master/QuantumComputerScience.jpg" width="300px" height="450px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="https://github.com/JoonLee-K/QuantumComputingLearning/blob/master/QuantumComputerScience.jpg" width="200px" height="300px"></img><br/>
 
 * [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky-ebook/dp/B00AHTN5NS)
 
-<img src="https://github.com/JoonLee-K/QuantumComputingLearning/blob/master/untitled.jpg" width="300px" height="450px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="https://github.com/JoonLee-K/QuantumComputingLearning/blob/master/untitled.jpg" width="200px" height="300px"></img><br/>
 
 author : JoonLee (이준희)
 
